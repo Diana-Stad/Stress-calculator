@@ -1,1 +1,1 @@
-# Diana-Stad-stress-calculator
+# Stress-calculator
